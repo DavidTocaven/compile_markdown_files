@@ -26,7 +26,7 @@ The result is clear but do not have the nice github style. Classic latex style i
 
 It's fast and command line only.
 
-See `compile_markdown_pandoc.pdf` file to see the result on this file.
+See [`compile_markdown_pandoc.pdf`](https://github.com/DavidTocaven/compile_markdown_files/blob/master/compile_markdown_pandoc.pdf) file to see the result on this file.
 
 
 
@@ -73,7 +73,7 @@ Where `XXXX` is a port.
 
 This way needs to open firefox or chrome and save to pdf using graphical interface. It is the better looking way.
 
-See `compile_markdown_grip_firefox.pdf` file to see the result on this file with Firefox and  `compile_markdown_grip_chrome.pdf` with Chrome.
+See [`compile_markdown_grip_firefox.pdf`](https://github.com/DavidTocaven/compile_markdown_files/blob/master/compile_markdown_grip_firefox.pdf) file to see the result on this file with Firefox and  [`compile_markdown_grip_chrome.pdf`](https://github.com/DavidTocaven/compile_markdown_files/blob/master/compile_markdown_grip_chrome.pdf) with Chrome.
 
 
 
@@ -113,4 +113,4 @@ wkhtmltopdf some_file.html some_file.pdf
 
 This way is a command line only process, it's looks great but needs an active Internet connexion (`grip` use github renderer).
 
-See `compile_markdown_grip_wkhtmltopdf.pdf` file to see the result on this file.
+See [`compile_markdown_grip_wkhtmltopdf.pdf`](https://github.com/DavidTocaven/compile_markdown_files/blob/master/compile_markdown_grip_wkhtmltopdf.pdf) file to see the result on this file.
